@@ -10,12 +10,12 @@
     "OWNERS": {
       "description": "replace with your number",
       "required": true,
-      "value": "923444844060"
+      "value": "254769322679"
     },
     "BOT_NUMBER": {
       "description": "replace with your number",
       "required": true,
-      "value": "923051391007"
+      "value": "254769322679"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
@@ -50,7 +50,7 @@
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
@@ -60,7 +60,7 @@
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
